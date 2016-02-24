@@ -33,7 +33,8 @@ public class MyDrawing extends JPanel {
 		//Changed the setsize again
 		
 		// Frame will not display until you set visible true
-		frame.setVisible(true);
+		frame.setVisible(false);
+		//voided display
 	}
 
 }
