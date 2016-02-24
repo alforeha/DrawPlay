@@ -28,8 +28,9 @@ public class MyDrawing extends JPanel {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		// Set the size (otherwise only title bar displays)
 		// SIZE CHANGED TO 200
-		frame.setSize(200, 400);
+		frame.setSize(200, 300);
 		//CHANGED THE SETSIZE
+		//Changed the setsize again
 		
 		// Frame will not display until you set visible true
 		frame.setVisible(true);
